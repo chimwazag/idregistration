@@ -58,3 +58,6 @@ if upload_file:
         title=f'<b>Registration Figures by {groupby_column}</b>'
         )
     st.plotly_chart(fig)
+         
+st.write('*********************************')
+st.write('*developer G.Chimwaza*')
