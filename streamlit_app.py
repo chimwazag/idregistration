@@ -7,7 +7,7 @@ st.set_page_config(page_title='ID Registration Dashboard')
 image = Image.open('logo.jpg')
 #---------------
 st.image(image,
-         caption='Malawi Government',
+         caption='Malawi Government Cyber',
          width=140
          )
 #--------------
